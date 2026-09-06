@@ -1,4 +1,3 @@
-4429951.redirect.appmetrica.yandex.com
 60-240-187-211.tpgi.com.au
 aukcioncentre.ru
 bitrix.info
@@ -18,10 +17,6 @@ nextcloud.com
 openvpn.net
 opt.lu.ru
 rm.cbonds.info
-schema.org
-static.alltime.ru
 ui.design
-vk.com
-www.alltime.ru
 www.enable-javascript.com
 www.w3.org
